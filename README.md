@@ -9,6 +9,8 @@ https://nemutas.github.io/jwt-request-app/
 - React
 - Typescript
 - Recoil
+- Material UI
+- Emotion/css
 
 # 詳細
 Qiitaにまとめました。<br>
